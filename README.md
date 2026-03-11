@@ -28,6 +28,6 @@ You can easily customize this OTP UI:
 > ![OTP Input Demo](screenshot.gif)
 
 ## 🚀 Installation & Setup
-1. **Clone the repo**: `git clone https://github.com`
+1. **Clone the repo**: `git clone https://github.com/chiragkumar8/responsive-otp-input-jquery-css`
 2. **Include jQuery**: Ensure the CDN is in your `<head>`.
 3. **Copy-Paste**: Drop the HTML/CSS/JS into your project and you're ready to go!
